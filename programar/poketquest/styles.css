@@ -12,6 +12,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  cursor: pointer;
 }
 
 .titulo {
@@ -102,6 +103,7 @@ input:checked + label {
   width: 80px;
   color: #11468F;
   font-family: 'Poppins', sans-serif;
+  cursor : pointer;
 }
 
 .ataques {
