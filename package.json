@@ -1,4 +1,9 @@
 {
+  "scripts": {
+    "deploy": "gh-pages -d programar"
+  },
+
+
   "devDependencies": {
     "gh-pages": "^4.0.0"
   }
